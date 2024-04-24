@@ -1,1 +1,1 @@
-# Portfólio bem básico para nós apresentarmos aos devs desse bendito mundo!
+## Portfólio desenvolvido com Vite + Vue
